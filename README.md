@@ -55,3 +55,9 @@ Implements a **Circuit Breaker** to handle failures gracefully and return fallba
 - **Inter-service REST communication**  
 - **Fault tolerance** using Circuit Breaker  
 - **Health and metrics monitoring** via Actuator  
+
+
+## 🌿 Author
+
+**Rumaesa**  
+*Java Spring Boot & Angular Fullstack Developer*  
